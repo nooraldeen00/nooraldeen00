@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Build Zone
+### 🚀 projects
 
 
 ### 🧠 Random Dev Quote
