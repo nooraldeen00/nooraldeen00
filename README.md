@@ -1,12 +1,16 @@
 <!-- Header -->
-<h1 align="left">Hello! I'm Nooraldeen Alsmady, CS @ UTA 👋</h1>
+<h1 align="left">🚀 Hello World! I'm Nooraldeen Alsmady</h1>
+🎓 CS Student @ UTA | 🤖 Machine Learning & AI | 🌐 Web & App Dev | 🔒 Cybersecurity Enthusiast  
 
-- 🎓 Senior CS @ UTA, graduating **Dec 2025**.
-- 🤖 I love **software dev** and **AI**—building things end-to-end.
-- 💪 Outside code: **gym**, **cooking**, and sometimes **running**.
-- 🔎 Open to SWE/ML internships & new grad roles.
+## ⚡ About Me
+- 🎓 Senior CS student @ **University of Texas at Arlington**, graduating **Dec 2025**  
+- 🤖 Obsessed with **Machine Learning & AI** — teaching machines to think, learn, and adapt  
+- 🌐 Passionate about **Web Development** (front + back) & 📱 **App Development** (Android & beyond)  
+- 🔒 Curious explorer of **Cybersecurity** — love digging into system defenses & vulnerabilities  
+- 🛠️ **I build things**: from software systems to apps & tools that make life easier  
+- 🔥 Hungry to **learn, grow, and push boundaries** — I want to leave an impact with every project I touch  
+- 💪 Outside of code: you’ll find me at the **gym 🏋️, cooking 👨‍🍳, or running 🏃‍♂️** to stay sharp  
 
----
 
 ### 🌐 Socials
 <p>
