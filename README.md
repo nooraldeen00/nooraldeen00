@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/nooraldeen-alsmady-0765a9378" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:nooraldeenalsmady@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://nooraldeen00.github.io/PORTFOLIO_OR_WEBSITE">
+  <a href="https://nooraldeenalsmady.com">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?logo=vercel&logoColor=white&style=for-the-badge">
   </a>
 </p>
