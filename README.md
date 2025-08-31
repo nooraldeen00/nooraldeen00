@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">YOOO! I'm John (Nooraldeen), CS @ UTA 👋</h1>
+<h1 align="left">Hello! I'm Nooraldeen Alsmady, CS @ UTA 👋</h1>
 
 - 🎓 Senior CS @ UTA, graduating **Dec 2025**.
 - 🤖 I love **software dev** and **AI**—building things end-to-end.
@@ -49,28 +49,13 @@
 
 
 ### 🧠 Random Dev Quote
-<blockquote>
-“Whenever logical processes of thought are employed, there is an opportunity for the machine.” — Vannevar Bush
-</blockquote>
 
----
 
 ### 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nooraldeen00&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooraldeen00&layout=compact&theme=transparent" />
-</p>
 
-<!-- Optional trophies (can be noisy, enable if you like) -->
-<!--
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=nooraldeen00&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
--->
 
----
 
 ### 📝 Contact
-- 📧 Email: YOUR_EMAIL_HERE  
-- 🌐 Portfolio: https://YOUR_DOMAIN_HERE  
+- 📧 Email: nooraldeenalsmady@gmail.com  
+- 🌐 Portfolio: nooraldeenalsmady.com  
 
