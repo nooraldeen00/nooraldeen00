@@ -46,39 +46,7 @@
 ---
 
 ### 🚀 Build Zone
-<!-- Two-column grid using HTML table for consistent layout -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="assets/bestprice_thumb.png" alt="BestPriceStore" style="border-radius:12px;" />
-      <h3>BestPriceStore: Database & Website</h3>
-      <p>Inventory & vendor management with a normalized SQL database and PHP/website UI.</p>
-      <a href="REPO_LINK_1">🔗 Check it out</a>
-    </td>
-    <td width="50%">
-      <img src="assets/txmanager_thumb.png" alt="TxManager" style="border-radius:12px;" />
-      <h3>Transaction Manager — Concurrency Control</h3>
-      <p>Simulates Strict 2PL, lock management, and logging for DB transactions.</p>
-      <a href="REPO_LINK_2">🔗 Check it out</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="assets/bplustree_thumb.png" alt="B+ Tree" style="border-radius:12px;" />
-      <h3>B+ Tree Implementation for MINIBASE</h3>
-      <p>File organization + index structure integrated into a mini-DBMS.</p>
-      <a href="REPO_LINK_3">🔗 Check it out</a>
-    </td>
-    <td width="50%">
-      <img src="assets/quickfin_thumb.png" alt="QuickFin" style="border-radius:12px;" />
-      <h3>QuickFin: Financial Helper App</h3>
-      <p>Kotlin Android app for tips, currency conversion, investment growth & loan interest.</p>
-      <a href="REPO_LINK_4">🔗 Check it out</a>
-    </td>
-  </tr>
-</table>
 
----
 
 ### 🧠 Random Dev Quote
 <blockquote>
