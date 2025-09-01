@@ -55,11 +55,4 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 📊 GitHub Stats
-
-
-
-### 📝 Contact
-- 📧 Email: nooraldeenalsmady@gmail.com  
-- 🌐 Portfolio: nooraldeenalsmady.com  
 
