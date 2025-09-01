@@ -51,6 +51,115 @@
 
 ### 🚀 projects
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <!-- The Chronologist -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/nooraldeen00/The-Chronologist">
+        <img src="assets/chronologist.png" alt="The Chronologist" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>The Chronologist</h3>
+      <p>
+        Puzzle-platformer with **time-warping** and **gravity-bending** mechanics.  
+        Designed to challenge logical thinking and creativity in gameplay.
+      </p>
+      <p>
+        <a href="https://github.com/nooraldeen00/The-Chronologist">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
+    </td>
+
+    <!-- Portfolio Projects -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/nooraldeen00/Portfolio-Projects">
+        <img src="assets/portfolio_projects.png" alt="Portfolio Projects" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>Portfolio Projects</h3>
+      <p>
+        A curated collection of **hands-on CS builds**: compilers, allocators, shells, and interactive apps.  
+        Showcases versatility across systems, AI, and web projects.
+      </p>
+      <p>
+        <a href="https://github.com/nooraldeen00/Portfolio-Projects">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- FAT32 Shell -->
+    <td width="50%" valign="top">
+      <a href="REPO_LINK_FAT32">
+        <img src="assets/fat32.png" alt="FAT32 Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>FAT32 File System Shell</h3>
+      <p>
+        Built a user-space **shell** in C to explore and manipulate a FAT32 image.  
+        Supports navigation, file ops, and hex/ASCII reading without mounting the disk.
+      </p>
+      <p>
+        <a href="REPO_LINK_FAT32">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/File%20Systems-000000">
+    </td>
+
+    <!-- Custom Allocator -->
+    <td width="50%" valign="top">
+      <a href="REPO_LINK_ALLOCATOR">
+        <img src="assets/allocator.png" alt="Custom Allocator" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>Custom Memory Allocator</h3>
+      <p>
+        Implemented my own **malloc/free** with strategies: Next Fit, Best Fit, and Worst Fit.  
+        Added splitting, coalescing, and benchmarking vs. glibc malloc.
+      </p>
+      <p>
+        <a href="REPO_LINK_ALLOCATOR">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BestPrice Store -->
+    <td width="50%" valign="top">
+      <a href="REPO_LINK_BESTPRICE">
+        <img src="assets/bestprice.png" alt="BestPrice Store" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>BestPrice Store: Database & Website</h3>
+      <p>
+        Web-based **inventory and vendor management system** powered by a normalized SQL DB and PHP interface.  
+        Designed with ER modeling, queries, and a working web UI.
+      </p>
+      <p>
+        <a href="REPO_LINK_BESTPRICE">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+<details>
+<summary><b>📌 Quick Project Index</b></summary>
+
+- **The Chronologist** — Puzzle platformer with time & gravity mechanics.  
+- **Portfolio Projects** — Compilers, allocators, FAT32 shell, and web builds.  
+- **FAT32 File System Shell** — Low-level C shell for FAT32 images.  
+- **Custom Allocator** — malloc/free implementation with fit strategies.  
+- **BestPrice Store** — SQL + PHP vendor & inventory management system.  
+
+</details>
 
 ### 🧠 Random Dev Quote
 
