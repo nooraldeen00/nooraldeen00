@@ -72,29 +72,11 @@
       <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
     </td>
 
-    <!-- Portfolio Projects -->
-    <td width="50%" valign="top">
-      <a href="https://github.com/nooraldeen00/Portfolio-Projects">
-        <img src="assets/portfolio_projects.png" alt="Portfolio Projects" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
-      </a>
-      <h3>Portfolio Projects</h3>
-      <p>
-        A curated collection of **hands-on CS builds**: compilers, allocators, shells, and interactive apps.  
-        Showcases versatility across systems, AI, and web projects.
-      </p>
-      <p>
-        <a href="https://github.com/nooraldeen00/Portfolio-Projects">🔗 Repo</a>
-      </p>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-    </td>
-  </tr>
+  
 
-  <tr>
     <!-- FAT32 Shell -->
     <td width="50%" valign="top">
-      <a href="REPO_LINK_FAT32">
+      <a href="https://github.com/nooraldeen00/FAT32">
         <img src="assets/fat32.png" alt="FAT32 Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
       </a>
       <h3>FAT32 File System Shell</h3>
@@ -103,7 +85,7 @@
         Supports navigation, file ops, and hex/ASCII reading without mounting the disk.
       </p>
       <p>
-        <a href="REPO_LINK_FAT32">🔗 Repo</a>
+        <a href="https://github.com/nooraldeen00/FAT32">🔗 Repo</a>
       </p>
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/File%20Systems-000000">
