@@ -56,13 +56,14 @@
 
   <!-- Row 1 -->
   <tr>
+    <!-- BestPrice Store -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/store-logo.png" alt="BestPrice Store" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>BestPriceStore: Database & Website</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/store-logo.png" alt="BestPrice Store" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">🛒 BestPriceStore: Database & Website</h3>
         <p><a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 <u>Check it out</u></a></p>
         <p>A web-based inventory & vendor management system backed by a normalized SQL database and PHP interface.</p>
-        <p><b>Role:</b> Full-Stack Developer (Database design + Web UI)</p>
+        <p><b>Role:</b> Full-Stack Developer</p>
         <p>
           <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
@@ -71,10 +72,11 @@
       </div>
     </td>
 
+    <!-- The Chronologist -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/the-chronologist.png" alt="The Chronologist" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>The Chronologist</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/the-chronologist.png" alt="The Chronologist" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">🎮 The Chronologist</h3>
         <p><a href="https://github.com/nooraldeen00/The-Chronologist">🔗 <u>Check it out</u></a></p>
         <p>A puzzle-platformer that bends time and gravity to create unique mechanics that test logic and creativity.</p>
         <p><b>Role:</b> Game Developer (Mechanics & Level Design)</p>
@@ -88,13 +90,14 @@
 
   <!-- Row 2 -->
   <tr>
+    <!-- FAT32 Shell -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/FAT32.png" alt="FAT32 File System" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>FAT32 File System Shell</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/FAT32.png" alt="FAT32 Shell" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">📂 FAT32 File System Shell</h3>
         <p><a href="https://github.com/nooraldeen00/FAT32">🔗 <u>Check it out</u></a></p>
         <p>User-space shell in C to explore FAT32 images with commands like <code>ls</code>, <code>cd</code>, <code>stat</code>, <code>get</code>, <code>put</code>.</p>
-        <p><b>Role:</b> Systems Programmer (Low-level File System Access)</p>
+        <p><b>Role:</b> Systems Programmer</p>
         <p>
           <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
           <img src="https://img.shields.io/badge/File%20Systems-808080">
@@ -102,13 +105,14 @@
       </div>
     </td>
 
+    <!-- Unix Shell -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/unix-shell.png" alt="Unix Shell" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>Unix Shell (msh)</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/unix-shell.png" alt="Unix Shell" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">💻 Unix Shell (msh)</h3>
         <p><a href="https://github.com/nooraldeen00/Unix-Shell">🔗 <u>Check it out</u></a></p>
         <p>A mini-shell in C with interactive & batch modes, redirection, and process control (<code>fork</code>, <code>exec</code>, <code>wait</code>).</p>
-        <p><b>Role:</b> Systems Programmer (Shell & Process Management)</p>
+        <p><b>Role:</b> Systems Programmer</p>
         <p>
           <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
           <img src="https://img.shields.io/badge/Systems%20Programming-000000">
@@ -119,13 +123,14 @@
 
   <!-- Row 3 -->
   <tr>
+    <!-- Custom Allocator -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>Custom Memory Allocator</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">🧠 Custom Memory Allocator</h3>
         <p><a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 <u>Check it out</u></a></p>
         <p>A <code>malloc/free</code> replacement with Next Fit, Best Fit, Worst Fit + <code>realloc</code> & <code>calloc</code> benchmarks.</p>
-        <p><b>Role:</b> Systems Programmer (Memory Management & Optimization)</p>
+        <p><b>Role:</b> Systems Programmer</p>
         <p>
           <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
           <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
@@ -133,13 +138,14 @@
       </div>
     </td>
 
+    <!-- SPL Compiler -->
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-        <img src="assets/spl.png" alt="SPL Compiler" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
-        <h3>SPL Compiler</h3>
+      <div style="background:#fafafa;border:1px solid #e0e0e0;border-radius:14px;padding:18px;text-align:center;box-shadow:0 3px 10px rgba(0,0,0,0.08); transition: all 0.3s ease;">
+        <img src="assets/spl.png" alt="SPL Compiler" style="width:100%; height:180px; object-fit:contain; border-radius:10px; background:#fff;">
+        <h3 style="margin:15px 0 8px;">⚙️ SPL Compiler</h3>
         <p><a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 <u>Check it out</u></a></p>
         <p>Custom compiler pipeline: JFlex scanner → CUP parser → AST → type checker → IR → MIPS assembly.</p>
-        <p><b>Role:</b> Compiler Engineer (Language Implementation)</p>
+        <p><b>Role:</b> Compiler Engineer</p>
         <p>
           <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
           <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
