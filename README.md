@@ -49,97 +49,11 @@
 
 ---
 
-### 🚀 projects
-
-## 🚀 Build Zone
-
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/store-logo.png" alt="BestPrice Store" height="180"><br>
-      <h3>🛒 BestPriceStore: Database & Website</h3>
-      <p><a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 <u>Check it out</u></a></p>
-      <p>Web-based inventory & vendor management system with normalized SQL schema and a PHP UI.</p>
-      <p><b>Role:</b> Full-Stack Developer</p>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
-      </p>
-    </td>
-
-    <td width="50%" align="center">
-      <img src="assets/the-chronologist.png" alt="The Chronologist" height="180"><br>
-      <h3>🎮 The Chronologist</h3>
-      <p><a href="https://github.com/nooraldeen00/The-Chronologist">🔗 <u>Check it out</u></a></p>
-      <p>Puzzle-platformer that bends time and gravity for creative, logic-driven challenges.</p>
-      <p><b>Role:</b> Game Developer</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/FAT32.png" alt="FAT32 File System" height="180"><br>
-      <h3>📂 FAT32 File System Shell</h3>
-      <p><a href="https://github.com/nooraldeen00/FAT32">🔗 <u>Check it out</u></a></p>
-      <p>User-space shell in C to explore FAT32 images with commands like <code>ls</code>, <code>cd</code>, <code>stat</code>, <code>get</code>, <code>put</code>.</p>
-      <p><b>Role:</b> Systems Programmer</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/File%20Systems-808080">
-      </p>
-    </td>
-
-    <td width="50%" align="center">
-      <img src="assets/unix-shell.png" alt="Unix Shell (msh)" height="180"><br>
-      <h3>💻 Unix Shell (msh)</h3>
-      <p><a href="https://github.com/nooraldeen00/Unix-Shell">🔗 <u>Check it out</u></a></p>
-      <p>Mini-shell in C with interactive/batch modes, redirection, and process control (<code>fork</code>, <code>exec</code>, <code>wait</code>).</p>
-      <p><b>Role:</b> Systems Programmer</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/Systems%20Programming-000000">
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/Custom-Allocator.png" alt="Custom Allocator" height="180"><br>
-      <h3>🧠 Custom Memory Allocator</h3>
-      <p><a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 <u>Check it out</u></a></p>
-      <p><code>malloc/free</code> with Next/Best/Worst Fit, splitting & coalescing, plus <code>realloc</code>/<code>calloc</code> benchmarks.</p>
-      <p><b>Role:</b> Systems Programmer</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
-      </p>
-    </td>
-
-    <td width="50%" align="center">
-      <img src="assets/spl.png" alt="SPL Compiler" height="180"><br>
-      <h3>⚙️ SPL Compiler</h3>
-      <p><a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 <u>Check it out</u></a></p>
-      <p>JFlex scanner → CUP parser → AST → type checker → IR → MIPS assembly.</p>
-      <p><b>Role:</b> Compiler Engineer</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
-        <img src="https://img.shields.io/badge/Compilers-228B22">
-      </p>
-    </td>
- 
-</table>
-
 
 ### 🧠 Random Dev Quote
+### 🧠 Random Dev Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### 📊 GitHub Stats
