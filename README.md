@@ -135,7 +135,7 @@
         <img src="https://img.shields.io/badge/Compilers-228B22">
       </p>
     </td>
-  </tr>
+ 
 </table>
 
 
