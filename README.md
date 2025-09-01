@@ -51,58 +51,75 @@
 
 ### 🚀 projects
 
-## 🚀 Projects
 
 <table>
   <tr>
-    <!-- The Chronologist -->
+    <!-- SPL Compiler -->
     <td width="50%" valign="top">
-      <a href="https://github.com/nooraldeen00/The-Chronologist">
-        <img src="assets/chronologist.png" alt="The Chronologist" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      <a href="https://github.com/nooraldeen00/SPL-Compiler">
+        <img src="assets/spl.png" alt="SPL Compiler" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>The Chronologist</h3>
+      <h3>SPL Compiler</h3>
       <p>
-        Puzzle-platformer with **time-warping** and **gravity-bending** mechanics.  
-        Designed to challenge logical thinking and creativity in gameplay.
+        Designed and implemented components of a **custom compiler** for SPL.  
+        Includes scanner (JFlex), parser (CUP), AST generation, type checking, IR generation, and MIPS assembly.
       </p>
       <p>
-        <a href="https://github.com/nooraldeen00/The-Chronologist">🔗 Repo</a>
+        <a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 Repo</a>
       </p>
-      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
+      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
+      <img src="https://img.shields.io/badge/Compilers-228B22">
     </td>
 
-  
+    <!-- Unix Shell -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/nooraldeen00/Unix-Shell">
+        <img src="assets/unix-shell.png" alt="Unix Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>Unix Shell (msh)</h3>
+      <p>
+        Built a **mini-shell in C** that supports interactive and batch mode, redirection, and system calls.  
+        Implements `cd`, `exit`, and full process management using `fork`, `exec`, and `wait`.
+      </p>
+      <p>
+        <a href="https://github.com/nooraldeen00/Unix-Shell">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/Systems%20Programming-000000">
+    </td>
+  </tr>
 
-    <!-- FAT32 Shell -->
+  <tr>
+    <!-- FAT32 File System -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/FAT32">
-        <img src="assets/fat32.png" alt="FAT32 Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/FAT32.png" alt="FAT32 Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
       </a>
       <h3>FAT32 File System Shell</h3>
       <p>
-        Built a user-space **shell** in C to explore and manipulate a FAT32 image.  
-        Supports navigation, file ops, and hex/ASCII reading without mounting the disk.
+        Implemented a **user-space shell** in C to interact with a FAT32 image.  
+        Features commands like `ls`, `cd`, `stat`, `get`, and `put` without mounting the file system.
       </p>
       <p>
         <a href="https://github.com/nooraldeen00/FAT32">🔗 Repo</a>
       </p>
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/File%20Systems-000000">
+      <img src="https://img.shields.io/badge/File%20Systems-808080">
     </td>
 
     <!-- Custom Allocator -->
     <td width="50%" valign="top">
-      <a href="REPO_LINK_ALLOCATOR">
-        <img src="assets/allocator.png" alt="Custom Allocator" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      <a href="https://github.com/nooraldeen00/Custom-Allocator">
+        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
       </a>
       <h3>Custom Memory Allocator</h3>
       <p>
-        Implemented my own **malloc/free** with strategies: Next Fit, Best Fit, and Worst Fit.  
-        Added splitting, coalescing, and benchmarking vs. glibc malloc.
+        Built a **malloc/free replacement** with multiple strategies: Next Fit, Best Fit, and Worst Fit.  
+        Added block splitting, coalescing, `realloc`, and `calloc` with performance benchmarks.
       </p>
       <p>
-        <a href="REPO_LINK_ALLOCATOR">🔗 Repo</a>
+        <a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 Repo</a>
       </p>
       <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
@@ -112,16 +129,16 @@
   <tr>
     <!-- BestPrice Store -->
     <td width="50%" valign="top">
-      <a href="REPO_LINK_BESTPRICE">
-        <img src="assets/bestprice.png" alt="BestPrice Store" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      <a href="https://github.com/nooraldeen00/Best-Price-Groceries">
+        <img src="assets/store-logo.png" alt="BestPrice Store" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
       </a>
       <h3>BestPrice Store: Database & Website</h3>
       <p>
-        Web-based **inventory and vendor management system** powered by a normalized SQL DB and PHP interface.  
-        Designed with ER modeling, queries, and a working web UI.
+        Developed a **web-based inventory & vendor management system**.  
+        Built with normalized SQL schema, queries, and a PHP-based user interface.
       </p>
       <p>
-        <a href="REPO_LINK_BESTPRICE">🔗 Repo</a>
+        <a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 Repo</a>
       </p>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
@@ -135,11 +152,11 @@
 <details>
 <summary><b>📌 Quick Project Index</b></summary>
 
-- **The Chronologist** — Puzzle platformer with time & gravity mechanics.  
-- **Portfolio Projects** — Compilers, allocators, FAT32 shell, and web builds.  
-- **FAT32 File System Shell** — Low-level C shell for FAT32 images.  
-- **Custom Allocator** — malloc/free implementation with fit strategies.  
-- **BestPrice Store** — SQL + PHP vendor & inventory management system.  
+- **SPL Compiler** — End-to-end compiler project (scanner → parser → IR → MIPS).  
+- **Unix Shell (msh)** — A mini C shell with process management.  
+- **FAT32 File System Shell** — C shell for navigating FAT32 images.  
+- **Custom Memory Allocator** — malloc/free with multiple fit strategies.  
+- **BestPrice Store** — Database + website with SQL and PHP.  
 
 </details>
 
