@@ -52,6 +52,8 @@
 ### 🚀 projects
 
 
+## 🚀 Projects
+
 <table>
   <tr>
     <!-- SPL Compiler -->
@@ -144,6 +146,23 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
     </td>
+
+    <!-- The Chronologist -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/nooraldeen00/The-Chronologist">
+        <img src="assets/the-chronologist.png" alt="The Chronologist" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+      </a>
+      <h3>The Chronologist</h3>
+      <p>
+        A **puzzle-platformer** that bends time and gravity to create unique gameplay challenges.  
+        Built to test problem-solving and logic in a creative game environment.
+      </p>
+      <p>
+        <a href="https://github.com/nooraldeen00/The-Chronologist">🔗 Repo</a>
+      </p>
+      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
+    </td>
   </tr>
 </table>
 
@@ -157,8 +176,10 @@
 - **FAT32 File System Shell** — C shell for navigating FAT32 images.  
 - **Custom Memory Allocator** — malloc/free with multiple fit strategies.  
 - **BestPrice Store** — Database + website with SQL and PHP.  
+- **The Chronologist** — Puzzle platformer with time & gravity mechanics.  
 
 </details>
+
 
 ### 🧠 Random Dev Quote
 
