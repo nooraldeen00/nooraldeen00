@@ -51,117 +51,119 @@
 
 ### 🚀 projects
 
-
-## 🚀 Projects
+## 🚀 Projects  
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <!-- SPL Compiler -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/SPL-Compiler">
-        <img src="assets/spl.png" alt="SPL Compiler" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/spl.png" alt="SPL Compiler" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>SPL Compiler</h3>
+      <h3>⚙️ SPL Compiler</h3>
       <p>
-        Designed and implemented components of a **custom compiler** for SPL.  
+        Designed and implemented a full **custom compiler** for SPL.  
         Includes scanner (JFlex), parser (CUP), AST generation, type checking, IR generation, and MIPS assembly.
       </p>
+      <p><a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
+        <img src="https://img.shields.io/badge/Compilers-228B22">
       </p>
-      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
-      <img src="https://img.shields.io/badge/Compilers-228B22">
     </td>
 
     <!-- Unix Shell -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/Unix-Shell">
-        <img src="assets/unix-shell.png" alt="Unix Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/unix-shell.png" alt="Unix Shell" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>Unix Shell (msh)</h3>
+      <h3>💻 Unix Shell (msh)</h3>
       <p>
-        Built a **mini-shell in C** that supports interactive and batch mode, redirection, and system calls.  
-        Implements `cd`, `exit`, and full process management using `fork`, `exec`, and `wait`.
+        Built a **mini-shell in C** supporting interactive & batch mode, redirection, and process control.  
+        Implements `cd`, `exit`, and system calls with `fork`, `exec`, and `wait`.
       </p>
+      <p><a href="https://github.com/nooraldeen00/Unix-Shell">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/Unix-Shell">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/Systems%20Programming-000000">
       </p>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/Systems%20Programming-000000">
     </td>
   </tr>
 
+  <!-- Row 2 -->
   <tr>
     <!-- FAT32 File System -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/FAT32">
-        <img src="assets/FAT32.png" alt="FAT32 Shell" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/FAT32.png" alt="FAT32 File System Shell" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>FAT32 File System Shell</h3>
+      <h3>📂 FAT32 File System Shell</h3>
       <p>
-        Implemented a **user-space shell** in C to interact with a FAT32 image.  
-        Features commands like `ls`, `cd`, `stat`, `get`, and `put` without mounting the file system.
+        Implemented a **user-space shell in C** to explore FAT32 images.  
+        Supports commands like `ls`, `cd`, `stat`, `get`, and `put` — without mounting the FS.
       </p>
+      <p><a href="https://github.com/nooraldeen00/FAT32">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/FAT32">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/File%20Systems-808080">
       </p>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/File%20Systems-808080">
     </td>
 
     <!-- Custom Allocator -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/Custom-Allocator">
-        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>Custom Memory Allocator</h3>
+      <h3>🧠 Custom Memory Allocator</h3>
       <p>
-        Built a **malloc/free replacement** with multiple strategies: Next Fit, Best Fit, and Worst Fit.  
-        Added block splitting, coalescing, `realloc`, and `calloc` with performance benchmarks.
+        Built a **malloc/free replacement** with strategies: Next Fit, Best Fit, Worst Fit.  
+        Added block splitting, coalescing, `realloc`, and `calloc` + benchmarks vs system malloc.
       </p>
+      <p><a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
       </p>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
     </td>
   </tr>
 
+  <!-- Row 3 -->
   <tr>
     <!-- BestPrice Store -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/Best-Price-Groceries">
-        <img src="assets/store-logo.png" alt="BestPrice Store" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/store-logo.png" alt="BestPrice Store" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>BestPrice Store: Database & Website</h3>
+      <h3>🛒 BestPrice Store</h3>
       <p>
-        Developed a **web-based inventory & vendor management system**.  
-        Built with normalized SQL schema, queries, and a PHP-based user interface.
+        A **web-based inventory & vendor management system**.  
+        Built with normalized SQL schema, advanced queries, and a PHP-based user interface.
       </p>
+      <p><a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
       </p>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
     </td>
 
     <!-- The Chronologist -->
     <td width="50%" valign="top">
       <a href="https://github.com/nooraldeen00/The-Chronologist">
-        <img src="assets/the-chronologist.png" alt="The Chronologist" style="border-radius:12px; width:100%; max-height:220px; object-fit:cover;">
+        <img src="assets/the-chronologist.png" alt="The Chronologist" style="border-radius:15px; width:100%; max-height:220px; object-fit:cover;">
       </a>
-      <h3>The Chronologist</h3>
+      <h3>🎮 The Chronologist</h3>
       <p>
-        A **puzzle-platformer** that bends time and gravity to create unique gameplay challenges.  
-        Built to test problem-solving and logic in a creative game environment.
+        A **puzzle-platformer** that bends time & gravity to create unique mechanics.  
+        Designed to challenge players’ logic, creativity, and problem-solving.
       </p>
+      <p><a href="https://github.com/nooraldeen00/The-Chronologist">🔗 View Repo</a></p>
       <p>
-        <a href="https://github.com/nooraldeen00/The-Chronologist">🔗 Repo</a>
+        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
       </p>
-      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
     </td>
   </tr>
 </table>
@@ -171,12 +173,12 @@
 <details>
 <summary><b>📌 Quick Project Index</b></summary>
 
-- **SPL Compiler** — End-to-end compiler project (scanner → parser → IR → MIPS).  
-- **Unix Shell (msh)** — A mini C shell with process management.  
-- **FAT32 File System Shell** — C shell for navigating FAT32 images.  
-- **Custom Memory Allocator** — malloc/free with multiple fit strategies.  
-- **BestPrice Store** — Database + website with SQL and PHP.  
-- **The Chronologist** — Puzzle platformer with time & gravity mechanics.  
+- **⚙️ SPL Compiler** — End-to-end compiler project (scanner → parser → IR → MIPS).  
+- **💻 Unix Shell (msh)** — C-based mini shell with process control & redirection.  
+- **📂 FAT32 File System Shell** — User-space FAT32 shell in C.  
+- **🧠 Custom Allocator** — malloc/free replacement with advanced strategies.  
+- **🛒 BestPrice Store** — Database + website with SQL & PHP.  
+- **🎮 The Chronologist** — Puzzle platformer with time & gravity mechanics.  
 
 </details>
 
