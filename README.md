@@ -52,32 +52,35 @@
 ### 🚀 projects
 
 
-<table style="width:100%; border-collapse:separate; border-spacing:16px 12px;">
+<table style="width:100%; border-collapse:separate; border-spacing:20px;">
 
   <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/store-logo.png" alt="BestPrice Store" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">BestPriceStore: Database & Website</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/Best-Price-Groceries" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          A web-based inventory & vendor management system backed by a normalized SQL database and PHP interface.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/store-logo.png" alt="BestPrice Store" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>BestPriceStore: Database & Website</h3>
+        <p><a href="https://github.com/nooraldeen00/Best-Price-Groceries">🔗 <u>Check it out</u></a></p>
+        <p>A web-based inventory & vendor management system backed by a normalized SQL database and PHP interface.</p>
+        <p><b>Role:</b> Full-Stack Developer (Database design + Web UI)</p>
+        <p>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+          <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+          <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white">
         </p>
       </div>
     </td>
 
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/the-chronologist.png" alt="The Chronologist" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">The Chronologist — Puzzle Platformer</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/The-Chronologist" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          Bends time and gravity to create unique mechanics that test logic and problem-solving.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/the-chronologist.png" alt="The Chronologist" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>The Chronologist</h3>
+        <p><a href="https://github.com/nooraldeen00/The-Chronologist">🔗 <u>Check it out</u></a></p>
+        <p>A puzzle-platformer that bends time and gravity to create unique mechanics that test logic and creativity.</p>
+        <p><b>Role:</b> Game Developer (Mechanics & Level Design)</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+          <img src="https://img.shields.io/badge/Game%20Dev-8A2BE2">
         </p>
       </div>
     </td>
@@ -86,27 +89,29 @@
   <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/FAT32.png" alt="FAT32 Shell" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">FAT32 File System Shell</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/FAT32" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          User-space shell in C to explore FAT32 images: <code>ls</code>, <code>cd</code>, <code>stat</code>, <code>get</code>, <code>put</code>—no mounting required.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/FAT32.png" alt="FAT32 File System" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>FAT32 File System Shell</h3>
+        <p><a href="https://github.com/nooraldeen00/FAT32">🔗 <u>Check it out</u></a></p>
+        <p>User-space shell in C to explore FAT32 images with commands like <code>ls</code>, <code>cd</code>, <code>stat</code>, <code>get</code>, <code>put</code>.</p>
+        <p><b>Role:</b> Systems Programmer (Low-level File System Access)</p>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+          <img src="https://img.shields.io/badge/File%20Systems-808080">
         </p>
       </div>
     </td>
 
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/unix-shell.png" alt="Unix Shell (msh)" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">Unix Shell (msh)</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/Unix-Shell" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          Mini-shell in C with interactive/batch modes, redirection, and process control via <code>fork</code>, <code>exec</code>, <code>wait</code>.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/unix-shell.png" alt="Unix Shell" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>Unix Shell (msh)</h3>
+        <p><a href="https://github.com/nooraldeen00/Unix-Shell">🔗 <u>Check it out</u></a></p>
+        <p>A mini-shell in C with interactive & batch modes, redirection, and process control (<code>fork</code>, <code>exec</code>, <code>wait</code>).</p>
+        <p><b>Role:</b> Systems Programmer (Shell & Process Management)</p>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+          <img src="https://img.shields.io/badge/Systems%20Programming-000000">
         </p>
       </div>
     </td>
@@ -115,34 +120,36 @@
   <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/Custom-Allocator.png" alt="Custom Memory Allocator" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">Custom Memory Allocator</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/Custom-Allocator" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          <code>malloc/free</code> implementation with Next/Best/Worst Fit, splitting & coalescing, plus <code>realloc</code>/<code>calloc</code> benchmarks.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/Custom-Allocator.png" alt="Custom Allocator" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>Custom Memory Allocator</h3>
+        <p><a href="https://github.com/nooraldeen00/Custom-Allocator">🔗 <u>Check it out</u></a></p>
+        <p>A <code>malloc/free</code> replacement with Next Fit, Best Fit, Worst Fit + <code>realloc</code> & <code>calloc</code> benchmarks.</p>
+        <p><b>Role:</b> Systems Programmer (Memory Management & Optimization)</p>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+          <img src="https://img.shields.io/badge/Memory%20Management-FF4500">
         </p>
       </div>
     </td>
 
     <td width="50%" valign="top">
-      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
-        <img src="assets/spl.png" alt="SPL Compiler" style="width:100%; max-height:230px; object-fit:cover; border-radius:14px;">
-        <h3 style="margin:14px 0 6px;">SPL Compiler</h3>
-        <p style="margin:0 0 8px;">
-          <a href="https://github.com/nooraldeen00/SPL-Compiler" style="text-decoration:none;">🔗 <u>Check it out</u></a>
-        </p>
-        <p style="margin:0;color:#586069;line-height:1.5;">
-          Custom compiler pipeline: JFlex scanner → CUP parser → AST → type checker → IR → MIPS assembly.
+      <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+        <img src="assets/spl.png" alt="SPL Compiler" style="width:100%; height:200px; object-fit:contain; border-radius:8px; background:#f9f9f9;">
+        <h3>SPL Compiler</h3>
+        <p><a href="https://github.com/nooraldeen00/SPL-Compiler">🔗 <u>Check it out</u></a></p>
+        <p>Custom compiler pipeline: JFlex scanner → CUP parser → AST → type checker → IR → MIPS assembly.</p>
+        <p><b>Role:</b> Compiler Engineer (Language Implementation)</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
+          <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white">
+          <img src="https://img.shields.io/badge/Compilers-228B22">
         </p>
       </div>
     </td>
   </tr>
 
 </table>
-
 
 ### 🧠 Random Dev Quote
 
