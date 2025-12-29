@@ -1,7 +1,4 @@
-<!-- Header -->
-<h1 align="left"> Hello World! I'm Nooraldeen Alsmady</h1>
   
-
 ##  About Me
 
 I build AI systems designed for real-world reliability.
