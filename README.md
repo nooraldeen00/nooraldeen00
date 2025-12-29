@@ -1,15 +1,22 @@
 <!-- Header -->
-<h1 align="left">🚀 Hello World! I'm Nooraldeen Alsmady</h1>
-🎓 CS Student @ UTA | 🤖 Machine Learning & AI | 🌐 Web & App Dev | 🔒 Cybersecurity Enthusiast  
+<h1 align="left"> Hello World! I'm Nooraldeen Alsmady</h1>
+  
 
-## ⚡ About Me
-- 🎓 Senior CS student @ **University of Texas at Arlington**, graduating **Dec 2025**  
-- 🤖 Obsessed with **Machine Learning & AI** — teaching machines to think, learn, and adapt  
-- 🌐 Passionate about **Web Development** (front + back) & 📱 **App Development** (Android & beyond)  
-- 🔒 Curious explorer of **Cybersecurity** — love digging into system defenses & vulnerabilities  
-- 🛠️ **I build things**: from software systems to apps & tools that make life easier  
-- 🔥 Hungry to **learn, grow, and push boundaries** — I want to leave an impact with every project I touch  
-- 💪 Outside of code: you’ll find me at the **gym 🏋️, cooking 👨‍🍳, or running 🏃‍♂️** to stay sharp  
+##  About Me
+
+I build AI systems designed for real-world reliability.
+
+I’m a Computer Science senior at the University of Texas at Arlington (Class of ’25) and a founder-level AI engineer focused on building production-grade systems where correctness, trust, and engineering discipline matter.
+
+My work includes:
+- Autonomous AI agents and production RAG systems
+- Hybrid architectures that reduce LLM hallucinations by design
+- Backend and systems-oriented software engineering
+- Real-world deployments, including federal project work
+
+I’ve contributed 340+ hours working with the U.S. Army Corps of Engineers on applied engineering projects and received an official Letter of Recognition for my contributions.
+
+Outside of building software, I stay sharp through fitness, cooking, and continuous learning.
 
 
 ### 🌐 Socials
